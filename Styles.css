@@ -1,0 +1,73 @@
+body {
+	text-align:left;
+	margin:30px;
+	background-image: url(https://data.whicdn.com/images/192579541/large.png);
+	position:relative;
+	top:-15px;
+	}
+
+header {
+	text-align:center;
+	font-size:100px;
+	}
+
+img {
+	position:relative;
+	top:16px;
+	}
+
+ul {
+    	list-style-type: disc;
+    	margin: 0;
+    	padding: 0;
+	position:relative;
+	top:25px;
+	color:#6600ff;
+	text-align:center;
+	font-size:120%;
+	}
+
+
+h1 {
+    	border:5px solid #ffffff;
+	border-width:7px;
+    	text-align:center;
+	font-family: Curlz MT;
+	color:#0080ff;
+	font-size:50px;
+	position:relative;
+	top:-3px;
+	}
+
+h1 img {
+	top:8px;
+	}
+
+table img {
+	border:5px solid #ffffff;
+	border-width:9px;
+	}
+
+td {
+	padding:30px;
+	text-align:center;
+	font-family:Curlz MT;
+	font-size:20px;
+	color:#6600ff;
+	}
+
+a:link {
+	font-family:Curlz MT;
+	padding:40px;
+	font-size:180%;
+	position:relative;
+	top:-20px;
+	}
+
+p {
+	color:#6600ff;
+	text-align:center;
+	font-family:Curlz MT;
+	font-size:200%;
+	}
+
